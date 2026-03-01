@@ -31,11 +31,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.16)
+  bundler (>= 1.16)
   pry
-  rake (~> 10.0)
+  rake (>= 10.0)
   rspec (~> 3.0)
   train-tax-calculator!
 
 BUNDLED WITH
-   1.16.2
+   2.4.22
